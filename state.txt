@@ -1,0 +1,8 @@
+-------------------------
+GPU 0 : b'GeForce MX150'
+GPU Memory Total: 2002M 
+GPU Memory Free: 1553M 
+GPU used: 30%
+Memory Total: 7870M
+Memory Free: 2403M
+CPU:5.90%
